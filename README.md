@@ -8,6 +8,5 @@
 
 ## Projects
 
-- [git-learning-log](https://github.com/qasimbonge-hub/git-learning-log) 
-- My first Git project tracking a learning log
+- [git-learning-log](https://github.com/qasimbonge-hub/git-learning-log) - My first Git project tracking a learning log
 
